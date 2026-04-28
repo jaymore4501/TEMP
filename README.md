@@ -10,7 +10,9 @@ Whether you're sketching out a quick idea, building a flowchart, or just chattin
 
 | Landing Page | Board Workspace |
 | :---: | :---: |
-| ![Landing Page Preview](.Collabryx-—-Instant-Collaborative-Whiteboard-04-28-2026_04_08_PM.png) | ![Board Preview](./public/Snapshots%20and%20Project%20Demonstration/Collabryx-—-Instant-Collaborative-Whiteboard-04-28-2026_04_30_PM.png) |
+| Landing Page | Board Workspace |
+| :---: | :---: |
+| ![Landing Page Preview](./Collabryx-—-Instant-Collaborative-Whiteboard-04-28-2026_04_08_PM.png) | ![Board Preview](./Collabryx-—-Instant-Collaborative-Whiteboard-04-28-2026_04_30_PM.png) |
 
 ![Collabryx Project Overview](./public/Project%20Overview%20(1).png)
 
