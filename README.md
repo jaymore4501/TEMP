@@ -12,8 +12,6 @@ Whether you're sketching out a quick idea, building a flowchart, or just chattin
 | :---: | :---: |
 | ![Landing Page Preview](./Collabryx-—-Instant-Collaborative-Whiteboard-04-28-2026_04_08_PM.png) | ![Board Preview](./Collabryx-—-Instant-Collaborative-Whiteboard-04-28-2026_04_30_PM.png) |
 
-![Collabryx Project Overview](./public/Project%20Overview%20(1).png)
-
 ---
 
 ## ✨ Key Features
